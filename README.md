@@ -1,1 +1,1 @@
-# cordova-chirp
+# cordova-plugin-chirp
